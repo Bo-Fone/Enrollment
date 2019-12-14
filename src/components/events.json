@@ -1,0 +1,24 @@
+{
+    "events": [
+        {
+            "title": "React JS vs Angular",
+            "id": 1,
+            "value": 0
+        },
+        {
+            "title": "ASP.NET Core or Node JS?",
+            "id": 2,
+            "value": 0
+        },
+        {
+            "title": "Lifecycle of React JS Components",
+            "id": 3,
+            "value": 0
+        },
+        {
+            "title": "Comparing JavaScript Libraries/Frameworks",
+            "id": 4,
+            "value": 0
+        }
+    ]
+}
