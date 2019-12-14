@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Enrollment/static/css/main.ee6f7ddf.chunk.css",
+    "main.js": "/Enrollment/static/js/main.b14a70c0.chunk.js",
+    "main.js.map": "/Enrollment/static/js/main.b14a70c0.chunk.js.map",
+    "runtime-main.js": "/Enrollment/static/js/runtime-main.22b0f024.js",
+    "runtime-main.js.map": "/Enrollment/static/js/runtime-main.22b0f024.js.map",
+    "static/css/2.64a99b10.chunk.css": "/Enrollment/static/css/2.64a99b10.chunk.css",
+    "static/js/2.d8944b55.chunk.js": "/Enrollment/static/js/2.d8944b55.chunk.js",
+    "static/js/2.d8944b55.chunk.js.map": "/Enrollment/static/js/2.d8944b55.chunk.js.map",
+    "index.html": "/Enrollment/index.html",
+    "precache-manifest.087493ef07cf67fa0b4634a3f1d602a3.js": "/Enrollment/precache-manifest.087493ef07cf67fa0b4634a3f1d602a3.js",
+    "service-worker.js": "/Enrollment/service-worker.js",
+    "static/css/2.64a99b10.chunk.css.map": "/Enrollment/static/css/2.64a99b10.chunk.css.map",
+    "static/css/main.ee6f7ddf.chunk.css.map": "/Enrollment/static/css/main.ee6f7ddf.chunk.css.map",
+    "static/js/2.d8944b55.chunk.js.LICENSE": "/Enrollment/static/js/2.d8944b55.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22b0f024.js",
+    "static/css/2.64a99b10.chunk.css",
+    "static/js/2.d8944b55.chunk.js",
+    "static/css/main.ee6f7ddf.chunk.css",
+    "static/js/main.b14a70c0.chunk.js"
+  ]
+}
